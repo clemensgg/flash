@@ -88,7 +88,7 @@ import (
 	tmos "github.com/tendermint/tendermint/libs/os"
 	dbm "github.com/tendermint/tm-db"
 
-	"github.com/strangelove-ventures/strange/cmd"
+	"github.com/clemensgg/flash/cmd"
 	// this line is used by starport scaffolding # stargate/app/moduleImport
 )
 
