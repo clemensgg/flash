@@ -3,7 +3,7 @@
  
 **flash** is a blockchain built using Cosmos SDK and Tendermint.  
 
-It uses a forked version of the Cosmos SDK (`Flash SDK`) with updated default consensus timeout parameters, to allow a target block production rate of ~1.7s / block
+It uses a forked version of the Cosmos SDK (`Flash SDK`) with updated default consensus timeout parameters, to allow a **target block production rate of ~1.7s / block**
 
 ## Get started
 
