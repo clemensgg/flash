@@ -19,15 +19,15 @@ import (
 	tmrand "github.com/tendermint/tendermint/libs/rand"
 	tmdb "github.com/tendermint/tm-db"
 
+	"github.com/clemensgg/flash/app"
+	"github.com/clemensgg/flash/cmd"
+	"github.com/clemensgg/flash/testutil"
 	cryptocodec "github.com/cosmos/cosmos-sdk/crypto/codec"
 	sdkerrors "github.com/cosmos/cosmos-sdk/types/errors"
 	genutil "github.com/cosmos/cosmos-sdk/x/genutil"
 	genutiltypes "github.com/cosmos/cosmos-sdk/x/genutil/types"
 	stakingtypes "github.com/cosmos/cosmos-sdk/x/staking/types"
 	ccvconsumertypes "github.com/cosmos/interchain-security/x/ccv/consumer/types"
-	"github.com/strangelove-ventures/strange/app"
-	"github.com/strangelove-ventures/strange/cmd"
-	"github.com/strangelove-ventures/strange/testutil"
 	types1 "github.com/tendermint/tendermint/abci/types"
 	tmtypes "github.com/tendermint/tendermint/types"
 )

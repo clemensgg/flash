@@ -133,4 +133,5 @@ replace (
 	//github.com/cosmos/cosmos-sdk/simapp => cosmossdk.io/simapp v0.0.0-20221202134328-25cf0b3fc843
 	github.com/cosmos/ibc-go/v3 => github.com/informalsystems/ibc-go/v3 v3.0.0-beta1.0.20220816140824-aba9c2f2b943
 	github.com/gogo/protobuf => github.com/regen-network/protobuf v1.3.3-alpha.regen.1
+	github.com/strangelove-ventures/strange => github.com/clemensgg/flash v0.1.0
 )

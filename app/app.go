@@ -95,7 +95,7 @@ import (
 const (
 	AccountAddressPrefix = "cosmos"
 	AppName              = "flash"
-	DefaultChainID       = "flash-1"
+	DefaultChainID       = "flash"
 )
 
 // this line is used by starport scaffolding # stargate/wasm/app/enabledProposals

@@ -4,11 +4,11 @@ import (
 	"encoding/json"
 	"testing"
 
+	"github.com/clemensgg/flash/app"
+	"github.com/clemensgg/flash/cmd"
 	"github.com/cosmos/cosmos-sdk/simapp"
 	ibctesting "github.com/cosmos/ibc-go/v3/testing"
 	icssimapp "github.com/cosmos/interchain-security/testutil/simapp"
-	"github.com/strangelove-ventures/strange/app"
-	"github.com/strangelove-ventures/strange/cmd"
 	"github.com/stretchr/testify/require"
 	"github.com/tendermint/tendermint/libs/log"
 	tmdb "github.com/tendermint/tm-db"
