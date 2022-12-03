@@ -1,4 +1,4 @@
-# Flash
+# ⚡ Flash ⚡
 ![CryptoCrew Validators](ccvalidators_logo.png#center)  
  
 **flash** is a blockchain built using Cosmos SDK and Tendermint.  
