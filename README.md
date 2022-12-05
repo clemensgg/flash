@@ -38,3 +38,7 @@ flashd add-consumer-section
 ```
 flashd start
 ```
+
+## Credits
+
+Credits to [strangelove](https://github.com/strangelove-ventures) for providing the codebase of [strange](https://github.com/strangelove-ventures/strange), which this project was initially forked off.
